@@ -1,3 +1,19 @@
+#title-bar {
+  background-color: black;
+  color: white;
+  display: block;
+  padding-left: 16px;
+}
+#input-search {
+  display: block;
+  padding: 8px 16px;
+  font-size: 24px;
+  width: 100%;
+  box-sizing: border-box;
+  outline-width: 0px;
+  border-radius: 0px;
+}
+
 .App {
   text-align: center;
 }

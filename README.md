@@ -1,3 +1,8 @@
+# Movie search React app.
+
+![movie_search](https://user-images.githubusercontent.com/63094930/117815919-98443980-b283-11eb-9522-ee99a0379700.gif)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
